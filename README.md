@@ -1,2 +1,2 @@
 # Pharmaceutical-POS-System
-A POS System for pharmacies with complete functionalities
+A Point of Sale System for pharmacies with complete functionalities
